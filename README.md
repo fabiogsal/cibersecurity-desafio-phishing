@@ -17,5 +17,7 @@
 - URL para clone: http://www.facebook.com
 
 ### Resutados
-
-![Alt text](./passwd.png "Optional title")
+#### Aparencia do site clonado
+![Alt text](./site-cloanado.png)
+#### Resultados no terminal
+![Alt text](./phishing-terminal.png)
